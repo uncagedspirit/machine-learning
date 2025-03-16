@@ -1,3 +1,17 @@
+## Supervised vs Unsupervised Learning
+
+| Supervised Learning | Unsupervised learning | 
+|---------------------|-----------------------|
+| Supervised ML algorithms are guided by labelled examples. | Unsupervised algorithms are not guided by labelled examples. |
+| Requires training data with independent variables and a dependent variable. (labelled data) | Requires training data with independent variables only. |
+| Need labelled data that can 'supervise' the algorithm while learning from the data. | Do not need labelled data for learning. |
+| E.g. Regression models, classification models | E.g. Clustering models, outlier detection models. |
+
+## Regression vs Classification
+
+| Regression | Classification | 
+|------------|----------------|
+|
 
 
 ### Regression performance metrices
